@@ -1,0 +1,6 @@
+{
+  "name": "JARIDIT",
+  "description": "Futuristic JARVIS-style personal AI companion for projects, science, school, and daily goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
